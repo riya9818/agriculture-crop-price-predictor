@@ -1,0 +1,381 @@
+Crop,Year,Predicted_Price
+"Almonds, in shell",2024,3120.7924242424197
+"Almonds, in shell",2025,3185.713547237072
+"Almonds, in shell",2026,3250.634670231724
+"Almonds, in shell",2027,3315.5557932263764
+"Almonds, in shell",2028,3380.4769162210287
+Apples,2024,862.9346590909117
+Apples,2025,877.1377673796815
+Apples,2026,891.3408756684512
+Apples,2027,905.5439839572209
+Apples,2028,919.7470922459906
+Apricots,2024,529.8907196969703
+Apricots,2025,535.4550579322658
+Apricots,2026,541.0193961675595
+Apricots,2027,546.5837344028532
+Apricots,2028,552.1480726381469
+Areca nuts,2024,551.294507575758
+Areca nuts,2025,554.8041666666668
+Areca nuts,2026,558.3138257575765
+Areca nuts,2027,561.8234848484854
+Areca nuts,2028,565.3331439393942
+Bananas,2024,430.2873106060615
+Bananas,2025,435.68246434937646
+Bananas,2026,441.0776180926914
+Bananas,2027,446.4727718360082
+Bananas,2028,451.8679255793231
+Barley,2024,337.53522727272684
+Barley,2025,345.3078877005355
+Barley,2026,353.08054812834234
+Barley,2027,360.853208556151
+Barley,2028,368.62586898395784
+"Beans, dry",2024,853.9669354838697
+"Beans, dry",2025,874.5918255131983
+"Beans, dry",2026,895.2167155425195
+"Beans, dry",2027,915.841605571848
+"Beans, dry",2028,936.4664956011693
+Buckwheat,2024,489.41538461538585
+Buckwheat,2025,496.85384615384646
+Buckwheat,2026,504.2923076923089
+Buckwheat,2027,511.7307692307695
+Buckwheat,2028,519.169230769232
+"Chick peas, dry",2024,943.8541666666642
+"Chick peas, dry",2025,955.6347147950073
+"Chick peas, dry",2026,967.4152629233504
+"Chick peas, dry",2027,979.1958110516935
+"Chick peas, dry",2028,990.9763591800365
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2024,441.905138339921
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2025,444.5015810276682
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2026,447.09802371541537
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2027,449.69446640316164
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2028,452.2909090909088
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2024,795.2867424242431
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2025,762.3069964349415
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2026,729.32725044564
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2027,696.3475044563384
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2028,663.3677584670222
+"Coconuts, in shell",2024,1109.2930000000051
+"Coconuts, in shell",2025,1155.6016923076968
+"Coconuts, in shell",2026,1201.9103846153885
+"Coconuts, in shell",2027,1248.2190769230801
+"Coconuts, in shell",2028,1294.5277692307718
+"Coffee, green",2024,1393.782386363635
+"Coffee, green",2025,1389.32145721925
+"Coffee, green",2026,1384.8605280748652
+"Coffee, green",2027,1380.3995989304804
+"Coffee, green",2028,1375.9386697860955
+"Cotton lint, ginned",2024,830.0901515151518
+"Cotton lint, ginned",2025,832.6052584670233
+"Cotton lint, ginned",2026,835.1203654188948
+"Cotton lint, ginned",2027,837.6354723707664
+"Cotton lint, ginned",2028,840.1505793226379
+Cotton seed,2024,39.015204569441856
+Cotton seed,2025,39.006711367728315
+Cotton seed,2026,38.99821816601477
+Cotton seed,2027,38.98972496430123
+Cotton seed,2028,38.9812317625877
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2024,414.6543768813972
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2025,423.2386092715242
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2026,431.82284166164754
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2027,440.40707405177454
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2028,448.99130644190154
+"Eggs from other birds in shell, fresh, n.e.c.",2024,4872.682709186687
+"Eggs from other birds in shell, fresh, n.e.c.",2025,5043.421064950293
+"Eggs from other birds in shell, fresh, n.e.c.",2026,5214.159420713899
+"Eggs from other birds in shell, fresh, n.e.c.",2027,5384.8977764775045
+"Eggs from other birds in shell, fresh, n.e.c.",2028,5555.636132241052
+"Ginger, raw",2024,505.5871794871794
+"Ginger, raw",2025,506.00531135531133
+"Ginger, raw",2026,506.42344322344314
+"Ginger, raw",2027,506.84157509157507
+"Ginger, raw",2028,507.259706959707
+Green garlic,2024,1157.9324110671878
+Green garlic,2025,1189.0767786561191
+Green garlic,2026,1220.2211462450578
+Green garlic,2027,1251.365513833989
+Green garlic,2028,1282.5098814229204
+"Hen eggs in shell, fresh",2024,2689.870454545453
+"Hen eggs in shell, fresh",2025,2748.8387700534804
+"Hen eggs in shell, fresh",2026,2807.8070855614933
+"Hen eggs in shell, fresh",2027,2866.7754010695207
+"Hen eggs in shell, fresh",2028,2925.7437165775336
+"Jute, raw or retted",2024,577.9178030303046
+"Jute, raw or retted",2025,591.2673351158664
+"Jute, raw or retted",2026,604.6168672014282
+"Jute, raw or retted",2027,617.96639928699
+"Jute, raw or retted",2028,631.3159313725519
+Lemons and limes,2024,803.9607954545427
+Lemons and limes,2025,824.7702540106911
+Lemons and limes,2026,845.5797125668396
+Lemons and limes,2027,866.389171122988
+Lemons and limes,2028,887.1986296791438
+"Lentils, dry",2024,1057.83712121212
+"Lentils, dry",2025,1083.0749554367212
+"Lentils, dry",2026,1108.3127896613223
+"Lentils, dry",2027,1133.5506238859161
+"Lentils, dry",2028,1158.7884581105172
+Linseed,2024,862.589962121212
+Linseed,2025,878.4736853832437
+Linseed,2026,894.3574086452754
+Linseed,2027,910.2411319073071
+Linseed,2028,926.1248551693388
+Maize (corn),2024,306.06363636363676
+Maize (corn),2025,312.7149732620328
+Maize (corn),2026,319.36631016042884
+Maize (corn),2027,326.0176470588249
+Maize (corn),2028,332.6689839572191
+"Mangoes, guavas and mangosteens",2024,467.26571969696965
+"Mangoes, guavas and mangosteens",2025,466.7922237076648
+"Mangoes, guavas and mangosteens",2026,466.31872771836004
+"Mangoes, guavas and mangosteens",2027,465.8452317290552
+"Mangoes, guavas and mangosteens",2028,465.3717357397504
+"Meat of buffalo, fresh or chilled",2024,3006.7246031746326
+"Meat of buffalo, fresh or chilled",2025,3087.4723590585927
+"Meat of buffalo, fresh or chilled",2026,3168.2201149425528
+"Meat of buffalo, fresh or chilled",2027,3248.967870826513
+"Meat of buffalo, fresh or chilled",2028,3329.715626710473
+"Meat of buffalo, fresh or chilled (biological)",2024,1204.4678571428558
+"Meat of buffalo, fresh or chilled (biological)",2025,1191.5357142857138
+"Meat of buffalo, fresh or chilled (biological)",2026,1178.6035714285717
+"Meat of buffalo, fresh or chilled (biological)",2027,1165.6714285714297
+"Meat of buffalo, fresh or chilled (biological)",2028,1152.7392857142877
+"Meat of cattle with the bone, fresh or chilled",2024,2962.2975806451577
+"Meat of cattle with the bone, fresh or chilled",2025,3036.370729472139
+"Meat of cattle with the bone, fresh or chilled",2026,3110.44387829912
+"Meat of cattle with the bone, fresh or chilled",2027,3184.5170271261013
+"Meat of cattle with the bone, fresh or chilled",2028,3258.5901759530825
+"Meat of cattle with the bone, fresh or chilled (biological)",2024,1494.7971774193575
+"Meat of cattle with the bone, fresh or chilled (biological)",2025,1532.4216275659855
+"Meat of cattle with the bone, fresh or chilled (biological)",2026,1570.0460777126136
+"Meat of cattle with the bone, fresh or chilled (biological)",2027,1607.6705278592417
+"Meat of cattle with the bone, fresh or chilled (biological)",2028,1645.2949780058698
+"Meat of chickens, fresh or chilled",2024,2322.0499999999993
+"Meat of chickens, fresh or chilled",2025,2329.3850267379676
+"Meat of chickens, fresh or chilled",2026,2336.720053475936
+"Meat of chickens, fresh or chilled",2027,2344.0550802139023
+"Meat of chickens, fresh or chilled",2028,2351.3901069518706
+"Meat of chickens, fresh or chilled (biological)",2024,1939.589480484361
+"Meat of chickens, fresh or chilled (biological)",2025,1945.7915477299375
+"Meat of chickens, fresh or chilled (biological)",2026,1951.9936149755122
+"Meat of chickens, fresh or chilled (biological)",2027,1958.1956822210886
+"Meat of chickens, fresh or chilled (biological)",2028,1964.3977494666633
+"Meat of ducks, fresh or chilled",2024,3093.0556818181794
+"Meat of ducks, fresh or chilled",2025,3138.7102941176418
+"Meat of ducks, fresh or chilled",2026,3184.3649064171186
+"Meat of ducks, fresh or chilled",2027,3230.019518716581
+"Meat of ducks, fresh or chilled",2028,3275.6741310160432
+"Meat of ducks, fresh or chilled (biological)",2024,2271.564655118891
+"Meat of ducks, fresh or chilled (biological)",2025,2298.778872539886
+"Meat of ducks, fresh or chilled (biological)",2026,2325.9930899608808
+"Meat of ducks, fresh or chilled (biological)",2027,2353.2073073818756
+"Meat of ducks, fresh or chilled (biological)",2028,2380.4215248028777
+"Meat of goat, fresh or chilled",2024,6583.486324786325
+"Meat of goat, fresh or chilled",2025,6750.840109890152
+"Meat of goat, fresh or chilled",2026,6918.193894993921
+"Meat of goat, fresh or chilled",2027,7085.54768009769
+"Meat of goat, fresh or chilled",2028,7252.901465201459
+"Meat of goat, fresh or chilled (biological)",2024,2451.246428571423
+"Meat of goat, fresh or chilled (biological)",2025,2399.809523809512
+"Meat of goat, fresh or chilled (biological)",2026,2348.372619047601
+"Meat of goat, fresh or chilled (biological)",2027,2296.9357142857043
+"Meat of goat, fresh or chilled (biological)",2028,2245.498809523793
+"Meat of pig with the bone, fresh or chilled",2024,2936.485375494056
+"Meat of pig with the bone, fresh or chilled",2025,3019.078359683772
+"Meat of pig with the bone, fresh or chilled",2026,3101.671343873488
+"Meat of pig with the bone, fresh or chilled",2027,3184.264328063233
+"Meat of pig with the bone, fresh or chilled",2028,3266.8573122529488
+"Meat of pig with the bone, fresh or chilled (biological)",2024,446.910714285681
+"Meat of pig with the bone, fresh or chilled (biological)",2025,347.25476190474
+"Meat of pig with the bone, fresh or chilled (biological)",2026,247.598809523799
+"Meat of pig with the bone, fresh or chilled (biological)",2027,147.94285714282887
+"Meat of pig with the bone, fresh or chilled (biological)",2028,48.286904761887854
+"Meat of sheep, fresh or chilled",2024,4795.773913043464
+"Meat of sheep, fresh or chilled",2025,4898.531521739118
+"Meat of sheep, fresh or chilled",2026,5001.289130434772
+"Meat of sheep, fresh or chilled",2027,5104.046739130397
+"Meat of sheep, fresh or chilled",2028,5206.8043478260515
+"Meat of sheep, fresh or chilled (biological)",2024,1921.732142857145
+"Meat of sheep, fresh or chilled (biological)",2025,1903.2809523809556
+"Meat of sheep, fresh or chilled (biological)",2026,1884.829761904759
+"Meat of sheep, fresh or chilled (biological)",2027,1866.3785714285696
+"Meat of sheep, fresh or chilled (biological)",2028,1847.9273809523802
+Millet,2024,356.6939393939392
+Millet,2025,365.09286987522137
+Millet,2026,373.4918003565035
+Millet,2027,381.8907308377893
+Millet,2028,390.28966131907146
+Mushrooms and truffles,2024,1229.3019762845843
+Mushrooms and truffles,2025,1231.3539525691695
+Mushrooms and truffles,2026,1233.4059288537546
+Mushrooms and truffles,2027,1235.4579051383398
+Mushrooms and truffles,2028,1237.509881422925
+Mustard seed,2024,1249.8579545454559
+Mustard seed,2025,1281.2169786096274
+Mustard seed,2026,1312.576002673799
+Mustard seed,2027,1343.9350267379705
+Mustard seed,2028,1375.294050802142
+Natural honey,2024,5817.355335968372
+Natural honey,2025,5976.655237154162
+Natural honey,2026,6135.955138339894
+Natural honey,2027,6295.255039525684
+Natural honey,2028,6454.554940711474
+"Nutmeg, mace, cardamoms, raw",2024,6886.605681818211
+"Nutmeg, mace, cardamoms, raw",2025,7096.029545454599
+"Nutmeg, mace, cardamoms, raw",2026,7305.453409090929
+"Nutmeg, mace, cardamoms, raw",2027,7514.877272727317
+"Nutmeg, mace, cardamoms, raw",2028,7724.301136363647
+"Onions and shallots, dry (excluding dehydrated)",2024,408.08409090909026
+"Onions and shallots, dry (excluding dehydrated)",2025,411.9542780748661
+"Onions and shallots, dry (excluding dehydrated)",2026,415.8244652406411
+"Onions and shallots, dry (excluding dehydrated)",2027,419.69465240641694
+"Onions and shallots, dry (excluding dehydrated)",2028,423.5648395721919
+Oranges,2024,722.0727272727308
+Oranges,2025,738.9844919786119
+Oranges,2026,755.896256684493
+Oranges,2027,772.808021390374
+Oranges,2028,789.7197860962551
+"Other citrus fruit, n.e.c.",2024,262.3979166666686
+"Other citrus fruit, n.e.c.",2025,255.13130570410067
+"Other citrus fruit, n.e.c.",2026,247.86469474153455
+"Other citrus fruit, n.e.c.",2027,240.5980837789666
+"Other citrus fruit, n.e.c.",2028,233.3314728164005
+"Other fruits, n.e.c.",2024,351.48149189252945
+"Other fruits, n.e.c.",2025,356.70026038584365
+"Other fruits, n.e.c.",2026,361.91902887915603
+"Other fruits, n.e.c.",2027,367.1377973724684
+"Other fruits, n.e.c.",2028,372.3565658657808
+"Other oil seeds, n.e.c.",2024,830.3346153846155
+"Other oil seeds, n.e.c.",2025,831.9000000000001
+"Other oil seeds, n.e.c.",2026,833.4653846153847
+"Other oil seeds, n.e.c.",2027,835.0307692307692
+"Other oil seeds, n.e.c.",2028,836.5961538461538
+Other pulses n.e.c.,2024,1030.7689393939363
+Other pulses n.e.c.,2025,1053.9508912655947
+Other pulses n.e.c.,2026,1077.132843137253
+Other pulses n.e.c.,2027,1100.3147950089115
+Other pulses n.e.c.,2028,1123.4967468805698
+"Other stimulant, spice and aromatic crops, n.e.c.",2024,295.69185606060455
+"Other stimulant, spice and aromatic crops, n.e.c.",2025,290.3509135472359
+"Other stimulant, spice and aromatic crops, n.e.c.",2026,285.00997103386726
+"Other stimulant, spice and aromatic crops, n.e.c.",2027,279.6690285204986
+"Other stimulant, spice and aromatic crops, n.e.c.",2028,274.32808600712997
+"Other vegetables, fresh n.e.c.",2024,454.9174242424233
+"Other vegetables, fresh n.e.c.",2025,464.55285204991014
+"Other vegetables, fresh n.e.c.",2026,474.188279857397
+"Other vegetables, fresh n.e.c.",2027,483.82370766488384
+"Other vegetables, fresh n.e.c.",2028,493.4591354723707
+Papayas,2024,321.5255681818189
+Papayas,2025,319.17145721925226
+Papayas,2026,316.8173462566847
+Papayas,2027,314.463235294118
+Papayas,2028,312.10912433155136
+Peaches and nectarines,2024,242.99230769230599
+Peaches and nectarines,2025,238.86043956043795
+Peaches and nectarines,2026,234.72857142856992
+Peaches and nectarines,2027,230.5967032967019
+Peaches and nectarines,2028,226.46483516483386
+Pears,2024,284.31041666666715
+Pears,2025,287.5862522281641
+Pears,2026,290.8620877896619
+Pears,2027,294.13792335115886
+Pears,2028,297.4137589126558
+Persimmons,2024,250.9692307692303
+Persimmons,2025,247.74945054945056
+Persimmons,2026,244.5296703296699
+Persimmons,2027,241.30989010989015
+Persimmons,2028,238.0901098901095
+"Pigeon peas, dry",2024,1099.4498106060564
+"Pigeon peas, dry",2025,1121.1309937611368
+"Pigeon peas, dry",2026,1142.8121769162171
+"Pigeon peas, dry",2027,1164.4933600712975
+"Pigeon peas, dry",2028,1186.1745432263779
+Pineapples,2024,492.14753787878794
+Pineapples,2025,492.2948975044564
+Pineapples,2026,492.44225713012486
+Pineapples,2027,492.5896167557933
+Pineapples,2028,492.7369763814618
+Plums and sloes,2024,268.39999999999964
+Plums and sloes,2025,271.0181818181818
+Plums and sloes,2026,273.63636363636306
+Plums and sloes,2027,276.2545454545452
+Plums and sloes,2028,278.8727272727274
+Potatoes,2024,329.70321969697034
+Potatoes,2025,337.3100044563271
+Potatoes,2026,344.91678921568564
+Potatoes,2027,352.5235739750442
+Potatoes,2028,360.13035873440276
+Raw milk of buffalo,2024,648.1309523809505
+Raw milk of buffalo,2025,663.0584564860437
+Raw milk of buffalo,2026,677.9859605911333
+Raw milk of buffalo,2027,692.913464696223
+Raw milk of buffalo,2028,707.8409688013126
+Raw milk of cattle,2024,572.9812500000007
+Raw milk of cattle,2025,583.9753342246004
+Raw milk of cattle,2026,594.9694184491964
+Raw milk of cattle,2027,605.963502673796
+Raw milk of cattle,2028,616.9575868983957
+Raw milk of goats,2024,590.5115789473675
+Raw milk of goats,2025,603.8345864661642
+Raw milk of goats,2026,617.1575939849608
+Raw milk of goats,2027,630.4806015037575
+Raw milk of goats,2028,643.8036090225542
+Raw milk of sheep,2024,590.5115789473675
+Raw milk of sheep,2025,603.8345864661642
+Raw milk of sheep,2026,617.1575939849608
+Raw milk of sheep,2027,630.4806015037575
+Raw milk of sheep,2028,643.8036090225542
+Rice,2024,308.1081439393947
+Rice,2025,314.9228832442077
+Rice,2026,321.73762254902067
+Rice,2027,328.55236185383365
+Rice,2028,335.3671011586466
+"Seed cotton, unginned",2024,279.80456944185767
+"Seed cotton, unginned",2025,280.51136772831705
+"Seed cotton, unginned",2026,281.2181660147762
+"Seed cotton, unginned",2027,281.9249643012356
+"Seed cotton, unginned",2028,282.63176258769477
+"Shorn wool, greasy, including fleece-washed shorn wool",2024,1946.8529644268856
+"Shorn wool, greasy, including fleece-washed shorn wool",2025,1984.4004940711457
+"Shorn wool, greasy, including fleece-washed shorn wool",2026,2021.9480237154203
+"Shorn wool, greasy, including fleece-washed shorn wool",2027,2059.4955533596803
+"Shorn wool, greasy, including fleece-washed shorn wool",2028,2097.043083003955
+Soya beans,2024,966.234469696974
+Soya beans,2025,988.7468360071362
+Soya beans,2026,1011.259202317291
+Soya beans,2027,1033.7715686274532
+Soya beans,2028,1056.2839349376154
+Sugar cane,2024,58.40662878787862
+Sugar cane,2025,59.94890819964348
+Sugar cane,2026,61.49118761140835
+Sugar cane,2027,63.03346702317276
+Sugar cane,2028,64.57574643493763
+Sweet potatoes,2024,156.0027667984191
+Sweet potatoes,2025,156.98596837944683
+Sweet potatoes,2026,157.96916996047435
+Sweet potatoes,2027,158.9523715415021
+Sweet potatoes,2028,159.93557312252983
+Tea leaves,2024,520.3630681818213
+Tea leaves,2025,528.8186497326242
+Tea leaves,2026,537.2742312834271
+Tea leaves,2027,545.7298128342263
+Tea leaves,2028,554.1853943850292
+Tomatoes,2024,412.03730158730195
+Tomatoes,2025,414.160071154899
+Tomatoes,2026,416.2828407224961
+Tomatoes,2027,418.40561029009314
+Tomatoes,2028,420.5283798576902
+Unmanufactured tobacco,2024,1276.2785984848451
+Unmanufactured tobacco,2025,1303.0744875222808
+Unmanufactured tobacco,2026,1329.8703765597165
+Unmanufactured tobacco,2027,1356.666265597145
+Unmanufactured tobacco,2028,1383.4621546345807
+"Walnuts, in shell",2024,1302.723863636369
+"Walnuts, in shell",2025,1322.52580213904
+"Walnuts, in shell",2026,1342.327740641711
+"Walnuts, in shell",2027,1362.1296791443892
+"Walnuts, in shell",2028,1381.9316176470602
+Wheat,2024,329.2028409090908
+Wheat,2025,336.66183155080216
+Wheat,2026,344.1208221925117
+Wheat,2027,351.57981283422305
+Wheat,2028,359.0388034759344
