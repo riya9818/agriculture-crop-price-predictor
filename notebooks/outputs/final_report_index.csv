@@ -1,0 +1,5 @@
+Description,File_Path
+Predictions CSV,outputs/all_crop_predictions.csv
+Summary Stats,outputs/prediction_summary.csv
+R2 Scores,outputs/model_r2_scores.csv
+Trend Chart,outputs/all_crops_trend.png
